@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.abc
+{
+background-color: #4CAF50;
+}
+
+</style>
+</head>
+<body>
+
+<div align="right" class="1">
+  <font color="#5D6D7E"> <span style="float:left; font-size:25px"> GETTUTOR.COM </span></font>
+</div>
+<br><br>
+<ul>
+  <li><a class="active" href="Professor Homepage.html">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#timetable">Time Table</a></li>
+  <li><a href="#notification">Notifications</a></li>
+  <span style="float:left;"><li class="dropdown">
+    <a href="#" class="dropbtn">My Account</a>
+    <div class="dropdown-content">
+      <a href="#">Edit Profile</a>
+      <a href="#">Change Password</a>
+      <a href="#">Log Out</a>
+    </div>
+  </li></span>
+</ul>
+<br><br><br>
+<center>
+<div class="head">
+<img src="file:///F:/IWP/Images/Logomakr_1eDfRp.png">
+<h1><font face="Cooper Black" color="#6C3483">SELECT YOUR DOMAIN<br>(SCHOOL SECTION)</h1>
+</div>
+
+
+
+<h2>Colored Table Header</h2>
+
+<table>
+  <tr>
+    <th>08:00AM - 10:00AM</th>
+    <th>10:00AM - 12:00PM</th>
+    <th>02:00PM - 04:00PM</th>
+	<th>04:00PM - 06:00PM</th>
+	<th>07:00PM - 09:00PM</th>
+  </tr>
+  <tr>
+    <td class="Day">Monday</td>
+    <td>Griffin</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td class="Day">Tuesday</td>
+    <td>Griffin</td>
+    <td>$150</td>
+  </tr>
+  <tr>
+    <td class="Day">Wednesday</td>
+    <td>Swanson</td>
+    <td>$300</td>
+  </tr>
+  <tr>
+    <td class="Day">Thursday</td>
+    <td>Brown</td>
+    <td>$250</td>
+   </tr>
+
+   <tr>
+	<td class="Day">Friday</td>
+   </tr>
+
+   <tr>
+	<td class="Day">Saturday</td>
+   </tr>
+   
+   <tr>
+	<td class="Day">Sunday</td>
+   </tr>
+   
+   
+</table>
+
+</body>
+</html>
